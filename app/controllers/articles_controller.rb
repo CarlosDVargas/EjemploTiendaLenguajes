@@ -1,4 +1,4 @@
 class ArticlesController < ApplicationController
-    Dev index 
-    End 
+    def index 
+    end 
 end
